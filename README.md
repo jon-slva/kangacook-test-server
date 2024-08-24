@@ -45,8 +45,8 @@ The server will start at http://127.0.0.1:8000/ by default.
 
 
 ## Additional Information
-### Running Tests
-To run the tests, use the following command:
+### CORS Origin
+CORS is only set to accept requests from these addresses:
 
 ```
 CORS_ALLOWED_ORIGINS = [
